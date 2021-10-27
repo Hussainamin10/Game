@@ -1,0 +1,16 @@
+Part II: Pitch a game idea – pre-production phase
+
+•	Game idea:
+There is a prince that wants to save and get back his princess that was taken by an evil monster. To get her back, he must travel to the castle, fight the evil monster and get her back. But in his tragedy, he will face many obstacles like other monsters in many different places and he should eliminate them all and after arriving to the big evil monster.
+Scenario and characters description:
+There will be many different levels with different backgrounds in the forest, sea, etc. And there will be also some obstacles that he should over it to continue. The prince is small, strong and handsome. His capacity is to throw knives at the enemy. For the small monsters, they can throw big fireballs at the prince. The big evil monster can throw knives at you and fireballs with a bigger damage.
+•	Character’s actions and goals:
+The goal of the game is that the prince should get back the princess.
+•	Game win/Lose conditions:
+To win the game, the prince should get back the princess and kill all the monsters without being hit. But if you get touch by a fire ball you will lose the game and restart from the end after 3 tries.
+•	Progression of Levels: 
+After every level there will be more monsters with more damages, harder obstacles and new places.
+•	Sources of inspiration:
+Super Mario galaxy.
+•	What skills/interests you are looking for in a teammate:
+A teammate that are serious, try to give new ideas and interact a lot. And surely comfortable with the group.
